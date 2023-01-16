@@ -6,8 +6,8 @@ blackjack, or twenty-one, Card game whose object is to be dealt cards having a h
 Game Play
 To play a hand of Blackjack the following steps must be followed:
 
-Create a deck of 52 cards
-Shuffle the deck
+1. Create a deck of 52 cards
+2. Shuffle the deck
 Ask the Player for their bet
 Make sure that the Player's bet does not exceed their available chips
 Deal two cards to the Dealer and two cards to the Player
